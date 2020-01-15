@@ -1,4 +1,4 @@
-package rodin.controller.user;
+package rodin.controller;
 
 import org.springframework.stereotype.Controller;
 
